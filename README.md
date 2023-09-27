@@ -1,16 +1,11 @@
-### Hi there 👋
-
+<h1> Hello there! Welcome! </h1>
+<p> I would love to work on a fantastical game </p>
+<h3> And </h3>
+<p> Canadian born and raised </p>
+<h2> othert things to know...</h2>
+<ul> 
+  <li> 🖋️ Eager to learn </li>
+  <li> 🙋‍♂️ Eager to help </li>
+  <li> 🏹 Eager to do something cool </li>
+</ul>
 <!--
-**Canadian-army66/Canadian-army66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
